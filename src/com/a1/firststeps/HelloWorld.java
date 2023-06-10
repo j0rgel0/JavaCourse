@@ -13,8 +13,30 @@ package com.a1.firststeps;
 // - If the class name consists of multiple words, capitalize the first letter of each word (e.g., ClassName).
 // - Class names should be descriptive and meaningful, representing the purpose or nature of the class.
 public class HelloWorld {
-    // Print "Hello, World!" to the console
+    // Fields (Variables)
+    // Fields store program state and represent the components of a class.
+    // Declare and define variables to store data that the class needs.
+    // For example, we can declare a field called "counter" to store a count value.
+    private int counter;
+
+    // Methods (Functions/Procedures)
+    // Methods perform operations on program state and represent the behavior of a class.
+    // Implement functionality by writing code inside methods.
+    // For example, we can define a method called "incrementCounter" to increase the value of the counter field.
+    public void incrementCounter() {
+        counter++;
+    }
+
     public void printHelloWorld() {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, World!"); // Print "Hello, World!" to the console
+    }
+
+    public static void main(String[] args) {
+        HelloWorld hello = new HelloWorld(); // Create an instance of the HelloWorld class
+        hello.printHelloWorld(); // Call the printHelloWorld method, which prints "Hello, World!"
+        hello.incrementCounter(); // Call the incrementCounter method, which increments the value of counter
+
+        // Print the value of counter to the console
+        System.out.println("Counter value: " + hello.counter);
     }
 }
