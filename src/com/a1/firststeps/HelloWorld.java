@@ -16,8 +16,7 @@ public class HelloWorld {
 
     // Fields (Variables). Fields store program state and represent the components of a class.
     // Declare and define variables to store data that the class needs.
-    // Field names should be written in camelCase.
-    // The first letter of the field name should be lowercase.
+    // Field names should be written in camelCase. The first letter of the field name should be lowercase.
     // If the field name consists of multiple words, capitalize the first letter of each word except the first one.
     // Field names should be descriptive and indicate the purpose or nature of the field.
 
@@ -26,8 +25,7 @@ public class HelloWorld {
 
     // Methods (Functions/Procedures). Methods perform operations on program state and represent the behavior of a class.
     // Implement functionality by writing code inside methods.
-    // Method names should be written in camelCase.
-    // The first letter of the method name should be lowercase.
+    // Method names should be written in camelCase. The first letter of the method name should be lowercase.
     // If the method name consists of multiple words, capitalize the first letter of each word except the first one.
     // Method names should be descriptive and indicate the action performed by the method.
 
