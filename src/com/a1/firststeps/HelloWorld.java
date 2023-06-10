@@ -1,3 +1,6 @@
+// Classes are the basic building blocks of Java programs.
+// When defining a class, you describe its parts and characteristics.
+
 // Package Names:
 // - Package names should be written in lowercase letters.
 // - Package names should be a series of words separated by periods (e.g., com.example.package).
@@ -10,8 +13,8 @@ package com.a1.firststeps;
 // - If the class name consists of multiple words, capitalize the first letter of each word (e.g., ClassName).
 // - Class names should be descriptive and meaningful, representing the purpose or nature of the class.
 public class HelloWorld {
-        // Print "Hello, World!" to the console
-        public void printHelloWorld() {
-            System.out.println("Hello, World!");
-        }
+    // Print "Hello, World!" to the console
+    public void printHelloWorld() {
+        System.out.println("Hello, World!");
+    }
 }
