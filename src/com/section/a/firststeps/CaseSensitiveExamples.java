@@ -1,4 +1,4 @@
-package com.a1.firststeps;
+package com.section.a.firststeps;
 
 public class CaseSensitiveExamples {
     // Fields with different case sensitivity

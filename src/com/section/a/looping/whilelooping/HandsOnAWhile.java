@@ -1,4 +1,4 @@
-package com.a1.looping.whilelooping;
+package com.section.a.looping.whilelooping;
 import java.util.Scanner;
 public class HandsOnAWhile {
     public static void main(String[] args) {

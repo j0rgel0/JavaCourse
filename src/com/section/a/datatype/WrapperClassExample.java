@@ -1,4 +1,4 @@
-package com.a1.datatype;
+package com.section.a.datatype;
 
 import java.util.stream.*;
 

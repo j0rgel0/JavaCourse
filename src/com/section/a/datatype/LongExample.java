@@ -1,4 +1,4 @@
-package com.a1.datatype;
+package com.section.a.datatype;
 public class LongExample {
     public static void main(String[] args) {
         long number1 = 100;  // The compiler assumes integer literals by default

@@ -1,4 +1,4 @@
-package com.a1.datatype;
+package com.section.a.datatype;
 public class ImplicitCastExample {
     public static void main(String[] args) {
         int myInt = 10;

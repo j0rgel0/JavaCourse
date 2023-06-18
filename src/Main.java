@@ -1,4 +1,4 @@
-import com.a1.firststeps.HelloWorld;
+import com.section.a.firststeps.HelloWorld;
 
 public class Main {
     public static void main(String[] args) {

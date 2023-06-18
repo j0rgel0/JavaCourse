@@ -5,7 +5,7 @@
 // - Package names should be written in lowercase letters.
 // - Package names should be a series of words separated by periods (e.g., com.example.package).
 // - Package names should be unique and follow the reverse domain name convention to avoid naming conflicts.
-package com.a1.firststeps;
+package com.section.a.firststeps;
 
 // Class Names:
 // - Class names should be written in CamelCase.

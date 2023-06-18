@@ -1,4 +1,4 @@
-package com.a1.datatype.wrapper;
+package com.section.a.datatype.wrapper;
 
 public class IntegerWrapperExample {
     public static void main(String[] args) {
