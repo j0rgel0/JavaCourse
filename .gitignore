@@ -1,0 +1,41 @@
+# Ignore compiled files
+*.class
+
+# Ignore IDE-generated files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Ignore build files
+bin/
+target/
+
+# Ignore dependency files (may vary depending on your build system)
+lib/
+libs/
+
+# Ignore backup or temporary files
+*~
+*.swp
+
+# Ignore configuration files
+*.properties
+*.config
+
+# Ignore log files
+*.log
+
+# Ignore test files
+**/test/
+**/tests/
+**/*Test.java
+**/*Tests.java
+
+# Ignore SonarLint issue store files
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/securityhotspotstore/index.pb
+
+# Ignore IntelliJ IDEA project file
+JavaCourse.iml
